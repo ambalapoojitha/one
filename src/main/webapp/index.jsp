@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShopEasy - Your One-Stop Online Store</title>
+    <title>WebMart - Your One-Stop Online Store</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <header>
         <div class="logo">
-            <h1>ShopEasy</h1>
+            <h1>WebMart</h1>
         </div>
         <nav>
             <ul>
@@ -48,7 +48,7 @@
     <footer>
         <div class="footer-content">
             <div class="footer-section">
-                <h3>About ShopEasy</h3>
+                <h3>About WebMart</h3>
                 <p>Your one-stop destination for all your shopping needs. Quality products at affordable prices.</p>
             </div>
             <div class="footer-section">
@@ -61,12 +61,12 @@
             </div>
             <div class="footer-section">
                 <h3>Contact Us</h3>
-                <p>Email: support@shopeasy.com</p>
+                <p>Email: support@webmart.com</p>
                 <p>Phone: +91 9876543210</p>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2023 ShopEasy. All Rights Reserved.</p>
+            <p>&copy; 2023 WebMart. All Rights Reserved.</p>
         </div>
     </footer>
 
